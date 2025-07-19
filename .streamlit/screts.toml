@@ -1,0 +1,3 @@
+# .streamlit/secrets.toml
+
+DEEPSEEK_API_KEY = "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"
