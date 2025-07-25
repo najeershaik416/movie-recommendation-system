@@ -99,7 +99,7 @@ bash
 streamlit run app.py
 
 
-Open your web browser and navigate to the local URL provided (usually http://localhost:8501).
+
 
 -----
 
